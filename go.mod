@@ -1,3 +1,3 @@
-module github.com/GoAdminGroup/html
+module github.com/go-hq/html
 
-go 1.13
+go 1.22
